@@ -1,7 +1,7 @@
 // Exercise Part 1 - Create a quantum random bit generator
 
 // 1. imports standard functions from Microsoft
-//import Std.Intrinsic.*;
+import Std.Intrinsic.*;
 
 // 2. Define the Main operation
 operation Main() : Result {
@@ -21,6 +21,7 @@ operation Main() : Result {
 
     // 7. Return the measurement result
     return result;
+
 
 
 }
